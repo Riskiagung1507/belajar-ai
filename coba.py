@@ -1,1 +1,1 @@
-print("Halo, aku sudah bisa Python!")
+print("Halo, lagi ngetes Python ni")
