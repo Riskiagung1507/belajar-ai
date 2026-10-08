@@ -1,0 +1,1 @@
+print("Halo, aku sudah bisa Python!")
