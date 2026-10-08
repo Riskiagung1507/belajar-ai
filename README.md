@@ -19,5 +19,3 @@ Repository ini berisi beberapa proyek praktis yang telah saya kembangkan:
 - **Library Utama:** NumPy, Pandas, Scikit-Learn, PyTorch
 - **Tools:** VS Code, Git, GitHub
 
----
-*Dibuat dengan semangat belajar mandiri untuk menjadi AI Engineer profesional!*
